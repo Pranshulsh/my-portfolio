@@ -5,9 +5,9 @@ import css from '../assets/css.png'
 import dsa from '../assets/dsa.jpg'
 import reactimg from '../assets/react.png'
 import javascript from '../assets/javascript.png'
-import nodeimg from '../assets/node.png'
-import expressimg from '../assets/express.png'
-import sqlimg from '../assets/sql.png'
+import nodeimg from '../assets/node.png.png'
+import expressimg from '../assets/express.png.png'
+import sqlimg from '../assets/sql.png.png'
 
 
 
