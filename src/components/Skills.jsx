@@ -5,6 +5,9 @@ import css from '../assets/css.png'
 import dsa from '../assets/dsa.jpg'
 import reactimg from '../assets/react.png'
 import javascript from '../assets/javascript.png'
+import nodeimg from '../assets/node.png'
+import expressimg from '../assets/express.png'
+import sqlimg from '../assets/sql.png'
 
 
 
@@ -51,9 +54,21 @@ const Skills = () => {
         },
         {
             id: 7,
-            src: reactimg,
+            src: nodeimg,
             title: 'Node.js',
             style: 'shadow-blue-700'
+        },
+        {
+            id: 8,
+            src: expressimg,
+            title: 'Express.js',
+            style: 'shadow-blue-100'
+        },
+        {
+            id: 9,
+            src: sqlimg,
+            title: 'SQL',
+            style: 'shadow-white-700'
         },
     ];
     return (
