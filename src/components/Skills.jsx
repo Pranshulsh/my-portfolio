@@ -49,6 +49,12 @@ const Skills = () => {
             title: 'React',
             style: 'shadow-sky-700'
         },
+        {
+            id: 7,
+            src: reactimg,
+            title: 'Node.js',
+            style: 'shadow-blue-700'
+        },
     ];
     return (
         <div name="skills" className="bg-gradient-to-b
