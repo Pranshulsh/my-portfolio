@@ -68,7 +68,7 @@ const Skills = () => {
             id: 9,
             src: sqlimg,
             title: 'SQL',
-            style: 'shadow-white-700'
+            style: 'shadow-sky-700'
         },
     ];
     return (
@@ -83,7 +83,7 @@ const Skills = () => {
                     <p className="py-6">These are the technologies I've worked with</p>
                 </div>
 
-                <div className="w-full grid grid-cols-2 sm:grid-cols-3 
+                <div className="w-full grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 
                 gap-8 text-center py-8 px-12 sm:px-0">
 
                     {
